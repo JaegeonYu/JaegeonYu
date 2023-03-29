@@ -6,7 +6,7 @@
 🚀 많이 자랄 백엔드 꿈나무입니다.
 </p>
 
-<
+
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
@@ -20,6 +20,11 @@
 <h3 align="center">✒ Blog ✒</h3>
 <p align="center">
 	https://anythingis.tistory.com
+</p>
+
+<h3 align="center">📄 Project Repository📄</h3>
+<p align="center">
+	https://github.com/JaegeonYu/emotion_commnity
 </p>
 
 <h3 align="center">📊 GitHub Stats 📊 </h3>
