@@ -23,10 +23,10 @@
 </p>
 
 <h3 align="center">📄 Project Repository📄</h3>
-<p align="center">
-	https://github.com/JaegeonYu/emotion_commnity
-	https://github.com/JaegeonYu/Guham
-</p>
+<div align="center">
+	<div>https://github.com/JaegeonYu/emotion_commnity</div>
+	<div>https://github.com/JaegeonYu/Guham</div>
+</div>
 
 <h3 align="center">📊 GitHub Stats 📊 </h3>
 <p align="center">
