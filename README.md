@@ -25,6 +25,7 @@
 <h3 align="center">📄 Project Repository📄</h3>
 <p align="center">
 	https://github.com/JaegeonYu/emotion_commnity
+	https://github.com/JaegeonYu/Guham
 </p>
 
 <h3 align="center">📊 GitHub Stats 📊 </h3>
