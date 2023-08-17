@@ -2,9 +2,6 @@
 <h3 align="center"> 👋 Hello World </h3>
 
 
-<p align="center">
-🚀 많이 자랄 백엔드 꿈나무입니다.
-</p>
 
 
 
