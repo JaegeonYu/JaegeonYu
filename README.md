@@ -26,16 +26,12 @@
 	https://anythingis.tistory.com
 </p>
 
-<h3 align="center">📄 Project Repository📄</h3>
-<div align="center">
-	<div>https://github.com/JaegeonYu/emotion_commnity</div>
-	<div>https://github.com/JaegeonYu/Guham</div>
-</div>
 
 <h3 align="center">📊 GitHub Stats 📊 </h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaegeonYu&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api?username=JaegeonYu&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api?username=JaegeonYu&show_icons=true" width =500px height=300px>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaegeonYu&layout=compact" width =400px height=200px/>
+
 </p>
 
 <h3 align="center">🎇 My Hits 🎇 </h3>
