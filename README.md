@@ -3,9 +3,9 @@
 ### 안녕하세요, 유재건입니다 👋
 
 백엔드 개발자입니다. 업무 도메인을 이해하고 문제를 구조적으로 푸는 데 관심이 있습니다.
-https://anythingis.tistory.com/213
 
-[![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://anythingis.tistory.com/](https://anythingis.tistory.com/213)
+
+[![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://anythingis.tistory.com/213)
 
 </div>
 
