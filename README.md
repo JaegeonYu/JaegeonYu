@@ -2,7 +2,7 @@
 
 ### 안녕하세요, 유재건입니다 👋
 
-백엔드 개발자입니다. 업무 도메인을 이해하고 문제를 구조적으로 푸는 데 관심이 있습니다.
+2년차 백엔드 개발자입니다. 도메인에 대한 이해를 중요시 생각하고 데이터 모델링과 SQL 튜닝에 관심이 있습니다.
 
 
 [![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://anythingis.tistory.com/213)
