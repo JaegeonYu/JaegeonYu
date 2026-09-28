@@ -34,7 +34,7 @@
 **Database**
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
-![IBM Db2](https://img.shields.io/badge/IBM%20Db2-052FAD?style=flat-square&logo=IBM&logoColor=white)
+
 
 **Tools**
 
@@ -48,15 +48,3 @@
 - 대용량 데이터 처리와 SQL 튜닝
 - 구매 관련 도메인
 - 현업 담당자와 소통을 통해 복잡한 비즈니스 로직을 읽기 쉬운 구조로 설계하는 방법
-
----
-
-### 📊 Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JaegeonYu&show_icons=true&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaegeonYu&layout=compact&theme=default&hide_border=true)
-
-</div>
